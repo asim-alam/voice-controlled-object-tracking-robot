@@ -4,7 +4,7 @@
   <img src="docs/images/actual-robot-hero.png" alt="The real Voice-Controlled Object-Tracking Robot prototype" width="900">
 </p>
 
-<p align="center"><em>AI-assisted background cleanup of the real VROD prototype.</em></p>
+<p align="center"><em>VROD prototype.</em></p>
 
 A multi-controller robot car that listens for a spoken target command, scans
 with an ESP32-CAM and Edge Impulse object-detection model, aligns toward the

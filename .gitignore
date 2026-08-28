@@ -1,0 +1,25 @@
+# Local credentials
+**/secrets.h
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Arduino and PlatformIO build products
+build/
+.pio/
+*.elf
+*.hex
+
+# Runtime audio and temporary files
+*.wav
+*.mp3
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

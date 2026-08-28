@@ -1,0 +1,6 @@
+gTTS
+numpy
+pydub
+pygame
+requests
+SpeechRecognition
